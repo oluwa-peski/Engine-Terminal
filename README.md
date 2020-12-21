@@ -1,6 +1,7 @@
 # Engine-Terminal
 This project emulates a bash command line with extra features and commands like batch mode, history and exit.
 <h2><b>How to run </b></h2>
+<h3><b>WILL ONLY WORK ON UNIX</h3></b>
 <ul>
   <li>clone repository into directory of choice</li>
   <li>Navigate into directory</li>
